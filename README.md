@@ -7,7 +7,7 @@ This repository contains a comprehensive **Customer Churn Analysis Dashboard** d
 ### 🔁 Multi-Year Churn Analysis (2018–2024)
 Track churn trends over time with yearly comparisons to monitor performance fluctuations and long-term patterns.
 
-![Overview](./screenshots/overview.png)
+![Overview](./screenshots/total_revenue.png)
 
 ---
 
@@ -31,7 +31,7 @@ Quick-glance summary of vital metrics:
 - **Average Lifetime Value (LTV)**
 - **Number of Customers**
 
-![Total Revenue](./screenshots/total_revenue.png)
+![Total Revenue](./screenshots/overview.png)
 
 ---
 
